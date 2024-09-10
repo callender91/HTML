@@ -1,0 +1,19 @@
+:root{
+    --cor-destaque: gray;
+    --tamanho-fonte: 28px;
+}
+
+    --font-family
+
+h2{
+    font-size: var(--tamanho-fonte);
+    color: var(--cor-destaque);
+    }
+h4{
+    font-size: var(--tamanho-fonte);
+    color: var(--cor-destaque);
+    }
+p{
+    font-size: 30px;
+    color: chocolate;
+}
